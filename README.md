@@ -85,7 +85,7 @@ Every candidate gets a **"Why ranked #N"** natural-language explanation — no b
 
 ## 🖥️ Features
 
-- 🎨 **Khatarnak UI** — dark futuristic theme, 3D floating candidate-card scene, particle constellation canvas, glassmorphism, mouse-parallax tilt on cards, neon glow accents, animated count-ups
+- 🎨 **Khatarnak UI** — unique **Neo-Brutalism Pop** design (cream canvas + vivid yellow/coral/violet/teal, bold ink borders, hard offset shadows) — *not another dark-theme dashboard*. 3D floating candidate-card scene with mouse parallax, scrolling marquee, floating doodle shapes, scroll-reveal animations, confetti burst on analysis, animated count-ups, rotating sticker badge
 - ⚡ **<50ms ranking** of 120 candidates — re-ranks *live* as you drag weight sliders
 - 📋 **4 one-click JD presets** (Frontend / ML / DevOps / Data Scientist) + paste-anything support
 - 📂 **Bring your own talent pool** — drag-drop CSV/JSON upload with a downloadable template
