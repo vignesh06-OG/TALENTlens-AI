@@ -1,0 +1,11 @@
+name,title,location,years_experience,skills,num_jobs,avg_tenure_years,current_company,education,certifications,last_active_days,open_to_work,response_rate,profile_complete,github_commits_6mo
+Asha Verma,Senior ML Engineer,Bengaluru,6,python;pytorch;llm;rag;mlops;docker;transformers,3,2.0,Sarvam AI,M.Tech,GCP Professional ML,2,yes,92,95,310
+Rohit Shah,Frontend Engineer,Pune,4,react;typescript;next.js;tailwind;graphql,2,2.0,Razorpay,B.Tech CSE,,5,no,80,88,150
+Priya Nair,GenAI Engineer,Remote (IST),3,python;llm;langchain;embeddings;vector databases;fastapi,2,1.5,Hasura,MS Computer Science,,1,yes,95,98,420
+Karan Mehta,DevOps Engineer,Hyderabad,7,kubernetes;docker;terraform;aws;prometheus;ci/cd,3,2.3,PhonePe,B.E. IT,CKA (Kubernetes),12,no,70,82,90
+Sneha Iyer,Data Scientist,Mumbai,5,python;sql;statistics;a/b testing;scikit-learn;tableau,2,2.5,Flipkart,B.Sc Statistics,,3,yes,88,91,60
+Vikram Rao,Staff Backend Engineer,Bengaluru,11,java;spring boot;microservices;kafka;postgresql;system design,4,2.8,Stripe,B.Tech CSE,AWS Solutions Architect,25,no,55,75,40
+Divya Kapoor,Junior Frontend Developer,Chennai,1,javascript;html;css;react,1,1.0,Freshworks,BCA,,4,yes,90,70,200
+Omar Khan,Senior Data Engineer,Dubai,8,python;spark;airflow;snowflake;dbt;sql;kafka,3,2.7,Careem,M.Tech,Databricks Spark,9,no,65,85,55
+Tanvi Joshi,Full-Stack Developer,Delhi NCR,4,react;node.js;mongodb;typescript;docker;aws,2,2.0,CRED,B.Tech CSE,,6,yes,85,92,260
+Marcus Berg,ML Engineer,Berlin,5,python;tensorflow;deep learning;mlops;kubernetes;mlflow,3,1.7,Zalando,MS Computer Science,TensorFlow Developer,15,no,60,80,180
